@@ -1,0 +1,29 @@
+This open-source project aims to illustrate how to develop real-time applications on top of HANA. As an example application, this project is a i-Pad flight predictor application, based on historical data and real-time data (e.g., weather information) gathered from proper data sources.
+
+Please note that the project is an on-going effort. The team will continuously upload related documents, to show and demonstrate how to develop HANA applications. Some documents may have evolving versions.
+
+-Architectural design document
+-Server-side code
+-Client-side code
+-Tutorial
+-Release notes
+
+This project is a collaborative effort between Carnegie Mellon University - Silicon Valley and SAP.
+
+Team members:
+
+Carnegie Mellon University – Silicon Valley
+Jia Zhang, Associate Professor
+Edward Akoto
+Lydian Lee
+Madhok Shivaratre
+Rashmi Devarahalli
+Vidya Pissaye
+
+SAP
+Jordan Cao
+Denis Malov
+Rafael Pacheco
+Naveen Nalla
+
+
