@@ -3,10 +3,13 @@ This open-source project aims to illustrate how to develop real-time application
 Please note that the project is an on-going effort. The team will continuously upload related documents, to show and demonstrate how to develop HANA applications. Some documents may have evolving versions.
 
 -Architectural design document
+-Code installation guide
+-Web service developer guide
 -Server-side code
 -Client-side code
 -Tutorial
 -Release notes
+-HANA code guide
 
 This project is a collaborative effort between Carnegie Mellon University - Silicon Valley and SAP.
 
